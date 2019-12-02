@@ -8,3 +8,5 @@ struct MyQuestionAnswerer {
         return "?"
     }
 }
+var num = 12345
+
